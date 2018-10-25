@@ -7,4 +7,8 @@ Essential Architecture Manager is avaliable under the GPL 3 https://www.enterpri
 
 Protégé http://protege.stanford.edu/ is avaliable under a BSD 2 clause license.
 
-Visit http://<containername>:8080/static to download the client components.
+Visit:
+
+* http://`<containername>`:8080/static to download the client components.
+
+* http://`<containername>`:8080/essential_viewer/ to access the web interface.
